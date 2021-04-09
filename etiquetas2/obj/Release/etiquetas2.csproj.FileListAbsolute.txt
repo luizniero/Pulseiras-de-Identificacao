@@ -1,0 +1,20 @@
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\bin\Release\etiquetas2.exe.config
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\bin\Release\etiquetas2.exe
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\bin\Release\etiquetas2.pdb
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.Properties.Resources.resources
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.TSCPrint.resources
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.csproj.GenerateResource.cache
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.csproj.CoreCompileInputs.cache
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.exe
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.pdb
+C:\Users\habmti03\source\repos\etiquetas2\etiquetas2\obj\Release\etiquetas2.csprojAssemblyReference.cache
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\bin\Release\etiquetas2.exe.config
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\bin\Release\etiquetas2.exe
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\bin\Release\etiquetas2.pdb
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.csprojAssemblyReference.cache
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.Properties.Resources.resources
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.TSCPrint.resources
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.csproj.GenerateResource.cache
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.csproj.CoreCompileInputs.cache
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.exe
+C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.pdb

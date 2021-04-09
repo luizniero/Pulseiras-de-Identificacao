@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etiquetas2", "etiquetas2\etiquetas2.csproj", "{D95CE0B5-9778-4C0E-9729-AFC7BEAED01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95CE0B5-9778-4C0E-9729-AFC7BEAED01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95CE0B5-9778-4C0E-9729-AFC7BEAED01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95CE0B5-9778-4C0E-9729-AFC7BEAED01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95CE0B5-9778-4C0E-9729-AFC7BEAED01B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE788F48-99E9-46EC-BA9F-60DA54E67F36}
+	EndGlobalSection
+EndGlobal
