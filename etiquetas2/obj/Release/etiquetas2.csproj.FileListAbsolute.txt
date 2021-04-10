@@ -18,3 +18,12 @@ C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquet
 C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.csproj.CoreCompileInputs.cache
 C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.exe
 C:\Users\habmti03\source\repos\etiquetas2 - Copia\etiquetas2\obj\Release\etiquetas2.pdb
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Release\etiquetas2.Properties.Resources.resources
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Release\etiquetas2.TSCPrint.resources
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Release\etiquetas2.csproj.GenerateResource.cache
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Release\etiquetas2.csproj.CoreCompileInputs.cache
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Release\etiquetas2.exe
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Release\etiquetas2.pdb
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\bin\Release\etiquetas2.exe.config
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\bin\Release\etiquetas2.exe
+D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\bin\Release\etiquetas2.pdb
