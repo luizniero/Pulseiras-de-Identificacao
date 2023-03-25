@@ -28,3 +28,14 @@ D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.csproj.Core
 D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.exe
 D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.pdb
 D:\GitHub\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.csprojAssemblyReference.cache
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\bin\Debug\etiquetas2.exe.config
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\bin\Debug\etiquetas2.exe
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\bin\Debug\etiquetas2.pdb
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.csproj.AssemblyReference.cache
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.Properties.Resources.resources
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.TSCPrint.resources
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.csproj.GenerateResource.cache
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.csproj.CoreCompileInputs.cache
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.exe
+C:\Users\luiz.niero\source\repos\Pulseiras-de-Identificacao\etiquetas2\obj\Debug\etiquetas2.pdb

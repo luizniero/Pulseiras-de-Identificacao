@@ -51,7 +51,7 @@ namespace etiquetas2
 					var matchNomeSocial = Regex.Match(fileValues, @"nome social:\s(.+); cpf", RegexOptions.IgnoreCase);
 					var matchCPF = Regex.Match(fileValues, @"cpf: (.*); nro_pront", RegexOptions.IgnoreCase);
 					var matchNumeroPront = Regex.Match(fileValues, @"nro_pront: (\d*); data_nascimento", RegexOptions.IgnoreCase);
-					var matchDataNasc = Regex.Match(fileValues, @"data_nascimento: (\d{1,2})\/(\d{1,2})\/(\d{2,4}); idade", RegexOptions.IgnoreCase);
+					var matchDataNasc = Regex.Match(fileValues, @"data_nascimento: (\d{4})-(\d{1,2})-(\d{1,2}); idade", RegexOptions.IgnoreCase);
 					var matchIdade = Regex.Match(fileValues, @"idade: (\d+); nome_mae", RegexOptions.IgnoreCase);
 					var matchNomeMae = Regex.Match(fileValues, @"nome_mae:\s(.+)", RegexOptions.IgnoreCase);
 
@@ -68,7 +68,7 @@ namespace etiquetas2
 						paciente.Prontuario = int.Parse(matchNumeroPront.Groups[1].Value);
 
 					if (matchDataNasc.Success)
-						paciente.DataNascimento = new DateTime(int.Parse(matchDataNasc.Groups[3].Value), int.Parse(matchDataNasc.Groups[2].Value), int.Parse(matchDataNasc.Groups[1].Value));
+						paciente.DataNascimento = new DateTime(int.Parse(matchDataNasc.Groups[1].Value), int.Parse(matchDataNasc.Groups[2].Value), int.Parse(matchDataNasc.Groups[3].Value));
 
 					if (matchIdade.Success)
 						paciente.Idade = int.Parse(matchIdade.Groups[1].Value);

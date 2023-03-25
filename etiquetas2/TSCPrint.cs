@@ -96,17 +96,23 @@ namespace etiquetas2
 
             clearbuffer(); // Clear image buffer
 
+            string cmdNomepaciente = "";
+            if (nomeSocial.Length > 0) {
+                cmdNomepaciente = string.Concat("TEXT 270,30, \"2\",90,1,1, \"PACIENTE: " + nomePaciente + " (" + nomeSocial + ") \"");
+            }
+            else {
+                cmdNomepaciente = string.Concat("TEXT 270,30, \"2\",90,1,1, \"NOME DO PACIENTE: " + nomePaciente + "\"");
+            }
 
-            string cmdNomepaciente = string.Concat("TEXT 280,30, \"2\",90,1,1, \"NOME DO PACIENTE: " + nomePaciente + "\"");
-            string cmdDataNascimento = string.Concat("TEXT 250, 30, \"2\", 90, 1, 1, " + "\"" + dataNascimento + "\"");
-            string cmdNomeMae = string.Concat("TEXT 220,30,\"2\",90,1,1, \"NOME DA MAE: " + nomeMae + "\"");
-            string cmdNomeSocial = string.Concat("TEXT 190,30,\"2\",90,1,1, \"NOME SOCIAL: " + nomeSocial + "\"");
-            string cmdNumeroProntuario = string.Concat("TEXT 160, 30, \"2\", 90, 1, 1, \"#" + numeroProntuario + "\"");
-            string cmdAlergias = string.Concat("TEXT 250,400,\"2\",90,1,1, \"ALERGIAS\"");
-            string cmdAlergias2 = string.Concat("TEXT 220,400,\"2\",90,1,1, \"" + alergias + "\"");
-            string cmdComorbidades = string.Concat("TEXT 190,400,\"2\",90,1,1,\"COMORBIDADES\"");
-            string cmdComorbidades2 = string.Concat("TEXT 160,400,\"2\",90,1,1,\"" + comorbidades + "\"");
-            string cmdRiscoQueda = string.Concat("TEXT 130, 400,\"2\",90,1,1,\"RISCO DE QUEDA\"");
+            string cmdDataNascimento = string.Concat("TEXT 240, 30, \"2\", 90, 1, 1, \" NASC.:" + dataNascimento + "\"");
+            string cmdNomeMae = string.Concat("TEXT 240, 350, \"2\", 90, 1, 1, \"MAE: " + nomeMae + "\"");
+            string cmdAlergias = string.Concat("TEXT 210, 30, \"2\", 90, 1, 1, \"ALERGIAS: " + alergias + "\"");
+            string cmdComorbidades = string.Concat("TEXT 180, 30, \"2\", 90, 1, 1, \"COMORBIDADES: " + comorbidades + "\"");
+
+
+            string cmdNumeroProntuario = string.Concat("TEXT 150, 30, \"2\", 90, 1, 1, \"#" + numeroProntuario + "\"");
+   
+            string cmdRiscoQueda = string.Concat("TEXT 150, 350,\"2\",90,1,1,\"RISCO DE QUEDA\"");
 
 
             //SOMENTE PARA TESTES
@@ -140,12 +146,9 @@ namespace etiquetas2
             sendcommand(cmdNomepaciente);
             sendcommand(cmdDataNascimento);
             sendcommand(cmdNomeMae);
-            sendcommand(cmdNomeSocial);
             sendcommand(cmdNumeroProntuario);
             sendcommand(cmdAlergias);
-            sendcommand(cmdAlergias2);
             sendcommand(cmdComorbidades);
-            sendcommand(cmdComorbidades2);
             if (chkqueda.Checked == true)
                 sendcommand(cmdRiscoQueda);
 
